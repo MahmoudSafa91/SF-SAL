@@ -1,0 +1,13 @@
+## REPORT
+/
+this data is concerned of SF salaries
+first i imported needed libraries such as pandas&numpy and matplotlib&seaborn
+for visualization.
+then i read the CSV file.
+i needed to get the basic information of data like info, describtion,
+shape, data types and i tested if my data contained nulls or dublication.
+after that i filled the missing values with mean to avoid changing the mean of data.
+
+then vesualizing the data with the ordered plots and tested the correlation beteen the salary and the numerical columns
+finally Groupping the data by one or more columns and calculating summary statistics (mean) and visualizing top 10 jobs according to it. 
+/
